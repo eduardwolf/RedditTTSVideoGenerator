@@ -9,7 +9,7 @@ Pomocí ChromeDriveru jsou také vytvořeny snímky obrazovky z reddit příspě
 
 Scénář a audio se poté propojí a vytvoří se video, které zahrnuje snímky obrazovky, vše načasované dle délky audia.
 
-Je nutný přístup k API Microsoftu TTS a Redditu, pozadí jpgs pro thumbnaily a pozadí video přes které se bude dávat content. Obě může být jen černé.
+Je nutný přístup k API Microsoftu TTS a Redditu, backgroumd .jpg pro thumbnaily a pozadí pro video přes které se bude dávat content. Obě může být jen černé.
 
 Jedno spuštění může vygenerovat více videí, dle nastavení.
 
